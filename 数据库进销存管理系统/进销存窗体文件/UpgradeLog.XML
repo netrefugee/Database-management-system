@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="WindowsFormsApplication2">
+</Property><Property Name="解决方案文件" Value="F:\WindowsFormsApplication2\WindowsFormsApplication2.sln">
+</Property><Property Name="用户选项文件" Value="F:\WindowsFormsApplication2\WindowsFormsApplication2.suo">
+</Property><Property Name="Date" Value="2017年12月1日">
+</Property><Property Name="Time" Value="14:43">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="WindowsFormsApplication2.sln" Description="文件已成功备份为 F:\WindowsFormsApplication2\Backup\WindowsFormsApplication2.sln">
+</Event><Event ErrorLevel="0" Project="" Source="WindowsFormsApplication2.suo" Description="文件已成功备份为 F:\WindowsFormsApplication2\Backup\WindowsFormsApplication2.suo">
+</Event><Event ErrorLevel="0" Project="WindowsFormsApplication2" Source="WindowsFormsApplication2\WindowsFormsApplication2.csproj" Description="项目文件已成功备份为 F:\WindowsFormsApplication2\Backup\WindowsFormsApplication2\WindowsFormsApplication2.csproj">
+</Event><Event ErrorLevel="0" Project="WindowsFormsApplication2" Source="WindowsFormsApplication2\WindowsFormsApplication2.csproj.user" Description="项目用户文件成功备份为 F:\WindowsFormsApplication2\Backup\WindowsFormsApplication2\WindowsFormsApplication2.csproj.user">
+</Event><Event ErrorLevel="0" Project="WindowsFormsApplication2" Source="WindowsFormsApplication2\DBHelper.cs" Description="文件已成功备份为 F:\WindowsFormsApplication2\Backup\WindowsFormsApplication2\DBHelper.cs">
+</Event><Event ErrorLevel="0" Project="WindowsFormsApplication2" Source="WindowsFormsApplication2\Form1.cs" Description="文件已成功备份为 F:\WindowsFormsApplication2\Backup\WindowsFormsApplication2\Form1.cs">
+</Event><Event ErrorLevel="0" Project="WindowsFormsApplication2" Source="WindowsFormsApplication2\Form1.Designer.cs" Description="文件已成功备份为 F:\WindowsFormsApplication2\Backup\WindowsFormsApplication2\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="WindowsFormsApplication2" Source="WindowsFormsApplication2\FrmCX.cs" Description="文件已成功备份为 F:\WindowsFormsApplication2\Backup\WindowsFormsApplication2\FrmCX.cs">
+</Event><Event ErrorLevel="0" Project="WindowsFormsApplication2" Source="WindowsFormsApplication2\FrmCX.Designer.cs" Description="文件已成功备份为 F:\WindowsFormsApplication2\Backup\WindowsFormsApplication2\FrmCX.Designer.cs">
+</Event><Event ErrorLevel="0" Project="WindowsFormsApplication2" Source="WindowsFormsApplication2\FrmJH.cs" Description="文件已成功备份为 F:\WindowsFormsApplication2\Backup\WindowsFormsApplication2\FrmJH.cs">
+</Event><Event ErrorLevel="0" Project="WindowsFormsApplication2" Source="WindowsFormsApplication2\FrmJH.Designer.cs" Description="文件已成功备份为 F:\WindowsFormsApplication2\Backup\WindowsFormsApplication2\FrmJH.Designer.cs">
+</Event><Event ErrorLevel="0" Project="WindowsFormsApplication2" Source="WindowsFormsApplication2\Frm_MD.cs" Description="文件已成功备份为 F:\WindowsFormsApplication2\Backup\WindowsFormsApplication2\Frm_MD.cs">
+</Event><Event ErrorLevel="0" Project="WindowsFormsApplication2" Source="WindowsFormsApplication2\Frm_MD.Designer.cs" Description="文件已成功备份为 F:\WindowsFormsApplication2\Backup\WindowsFormsApplication2\Frm_MD.Designer.cs">
+</Event><Event ErrorLevel="0" Project="WindowsFormsApplication2" Source="WindowsFormsApplication2\Frm_SearchByZymc.cs" Description="文件已成功备份为 F:\WindowsFormsApplication2\Backup\WindowsFormsApplication2\Frm_SearchByZymc.cs">
+</Event><Event ErrorLevel="0" Project="WindowsFormsApplication2" Source="WindowsFormsApplication2\Frm_SearchByZymc.Designer.cs" Description="文件已成功备份为 F:\WindowsFormsApplication2\Backup\WindowsFormsApplication2\Frm_SearchByZymc.Designer.cs">
+</Event><Event ErrorLevel="0" Project="WindowsFormsApplication2" Source="WindowsFormsApplication2\frm_zgInfo.cs" Description="文件已成功备份为 F:\WindowsFormsApplication2\Backup\WindowsFormsApplication2\frm_zgInfo.cs">
+</Event><Event ErrorLevel="0" Project="WindowsFormsApplication2" Source="WindowsFormsApplication2\frm_zgInfo.Designer.cs" Description="文件已成功备份为 F:\WindowsFormsApplication2\Backup\WindowsFormsApplication2\frm_zgInfo.Designer.cs">
+</Event><Event ErrorLevel="0" Project="WindowsFormsApplication2" Source="WindowsFormsApplication2\Frm_Main.cs" Description="文件已成功备份为 F:\WindowsFormsApplication2\Backup\WindowsFormsApplication2\Frm_Main.cs">
+</Event><Event ErrorLevel="0" Project="WindowsFormsApplication2" Source="WindowsFormsApplication2\Frm_Main.Designer.cs" Description="文件已成功备份为 F:\WindowsFormsApplication2\Backup\WindowsFormsApplication2\Frm_Main.Designer.cs">
+</Event><Event ErrorLevel="0" Project="WindowsFormsApplication2" Source="WindowsFormsApplication2\jhdDataSet.cs" Description="文件已成功备份为 F:\WindowsFormsApplication2\Backup\WindowsFormsApplication2\jhdDataSet.cs">
+</Event><Event ErrorLevel="0" Project="WindowsFormsApplication2" Source="WindowsFormsApplication2\jhdDataSet.Designer.cs" Description="文件已成功备份为 F:\WindowsFormsApplication2\Backup\WindowsFormsApplication2\jhdDataSet.Designer.cs">
+</Event><Event ErrorLevel="0" Project="WindowsFormsApplication2" Source="WindowsFormsApplication2\JxcDataSet.Designer.cs" Description="文件已成功备份为 F:\WindowsFormsApplication2\Backup\WindowsFormsApplication2\JxcDataSet.Designer.cs">
+</Event><Event ErrorLevel="0" Project="WindowsFormsApplication2" Source="WindowsFormsApplication2\LoginInfo.cs" Description="文件已成功备份为 F:\WindowsFormsApplication2\Backup\WindowsFormsApplication2\LoginInfo.cs">
+</Event><Event ErrorLevel="0" Project="WindowsFormsApplication2" Source="WindowsFormsApplication2\Program.cs" Description="文件已成功备份为 F:\WindowsFormsApplication2\Backup\WindowsFormsApplication2\Program.cs">
+</Event><Event ErrorLevel="0" Project="WindowsFormsApplication2" Source="WindowsFormsApplication2\Properties\AssemblyInfo.cs" Description="文件已成功备份为 F:\WindowsFormsApplication2\Backup\WindowsFormsApplication2\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="WindowsFormsApplication2" Source="WindowsFormsApplication2\Properties\Resources.Designer.cs" Description="文件已成功备份为 F:\WindowsFormsApplication2\Backup\WindowsFormsApplication2\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="WindowsFormsApplication2" Source="WindowsFormsApplication2\Properties\Settings.Designer.cs" Description="文件已成功备份为 F:\WindowsFormsApplication2\Backup\WindowsFormsApplication2\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="WindowsFormsApplication2" Source="WindowsFormsApplication2\app.config" Description="文件已成功备份为 F:\WindowsFormsApplication2\Backup\WindowsFormsApplication2\app.config">
+</Event><Event ErrorLevel="0" Project="WindowsFormsApplication2" Source="WindowsFormsApplication2\jhdDataSet.xsc" Description="文件已成功备份为 F:\WindowsFormsApplication2\Backup\WindowsFormsApplication2\jhdDataSet.xsc">
+</Event><Event ErrorLevel="0" Project="WindowsFormsApplication2" Source="WindowsFormsApplication2\jhdDataSet.xsd" Description="文件已成功备份为 F:\WindowsFormsApplication2\Backup\WindowsFormsApplication2\jhdDataSet.xsd">
+</Event><Event ErrorLevel="0" Project="WindowsFormsApplication2" Source="WindowsFormsApplication2\jhdDataSet.xss" Description="文件已成功备份为 F:\WindowsFormsApplication2\Backup\WindowsFormsApplication2\jhdDataSet.xss">
+</Event><Event ErrorLevel="0" Project="WindowsFormsApplication2" Source="WindowsFormsApplication2\JxcDataSet.xsc" Description="文件已成功备份为 F:\WindowsFormsApplication2\Backup\WindowsFormsApplication2\JxcDataSet.xsc">
+</Event><Event ErrorLevel="0" Project="WindowsFormsApplication2" Source="WindowsFormsApplication2\JxcDataSet.xsd" Description="文件已成功备份为 F:\WindowsFormsApplication2\Backup\WindowsFormsApplication2\JxcDataSet.xsd">
+</Event><Event ErrorLevel="0" Project="WindowsFormsApplication2" Source="WindowsFormsApplication2\JxcDataSet.xss" Description="文件已成功备份为 F:\WindowsFormsApplication2\Backup\WindowsFormsApplication2\JxcDataSet.xss">
+</Event><Event ErrorLevel="0" Project="WindowsFormsApplication2" Source="WindowsFormsApplication2\Properties\Settings.settings" Description="文件已成功备份为 F:\WindowsFormsApplication2\Backup\WindowsFormsApplication2\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="WindowsFormsApplication2" Source="WindowsFormsApplication2\Form1.resx" Description="文件已成功备份为 F:\WindowsFormsApplication2\Backup\WindowsFormsApplication2\Form1.resx">
+</Event><Event ErrorLevel="0" Project="WindowsFormsApplication2" Source="WindowsFormsApplication2\FrmCX.resx" Description="文件已成功备份为 F:\WindowsFormsApplication2\Backup\WindowsFormsApplication2\FrmCX.resx">
+</Event><Event ErrorLevel="0" Project="WindowsFormsApplication2" Source="WindowsFormsApplication2\FrmJH.resx" Description="文件已成功备份为 F:\WindowsFormsApplication2\Backup\WindowsFormsApplication2\FrmJH.resx">
+</Event><Event ErrorLevel="0" Project="WindowsFormsApplication2" Source="WindowsFormsApplication2\Frm_MD.resx" Description="文件已成功备份为 F:\WindowsFormsApplication2\Backup\WindowsFormsApplication2\Frm_MD.resx">
+</Event><Event ErrorLevel="0" Project="WindowsFormsApplication2" Source="WindowsFormsApplication2\Frm_SearchByZymc.resx" Description="文件已成功备份为 F:\WindowsFormsApplication2\Backup\WindowsFormsApplication2\Frm_SearchByZymc.resx">
+</Event><Event ErrorLevel="0" Project="WindowsFormsApplication2" Source="WindowsFormsApplication2\frm_zgInfo.resx" Description="文件已成功备份为 F:\WindowsFormsApplication2\Backup\WindowsFormsApplication2\frm_zgInfo.resx">
+</Event><Event ErrorLevel="0" Project="WindowsFormsApplication2" Source="WindowsFormsApplication2\Frm_Main.resx" Description="文件已成功备份为 F:\WindowsFormsApplication2\Backup\WindowsFormsApplication2\Frm_Main.resx">
+</Event><Event ErrorLevel="0" Project="WindowsFormsApplication2" Source="WindowsFormsApplication2\Properties\Resources.resx" Description="文件已成功备份为 F:\WindowsFormsApplication2\Backup\WindowsFormsApplication2\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="WindowsFormsApplication2" Source="WindowsFormsApplication2\WindowsFormsApplication2.csproj" Description="项目已成功转换">
+</Event><Event ErrorLevel="3" Project="WindowsFormsApplication2" Source="WindowsFormsApplication2\WindowsFormsApplication2.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="WindowsFormsApplication2.sln" Description="成功转换解决方案">
+</Event><Event ErrorLevel="3" Project="" Source="WindowsFormsApplication2.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="WindowsFormsApplication2" Source="WindowsFormsApplication2\WindowsFormsApplication2.csproj" Description="扫描完成: 项目文件不需要升级。">
+</Event></UpgradeLog>
